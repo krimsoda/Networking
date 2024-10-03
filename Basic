@@ -1,0 +1,17 @@
+:: Basic Troubleshoting ::
+Machine / IP Address
+-Ping 
+    Machine - IP Address | FQDN
+    Router 
+    DNS Server 
+-Nslookup 
+-Traceroute
+-Tracert
+
+Port
+-Nmap
+-Ncat
+
+Traffic
+-Wireshark
+-TCP Dump

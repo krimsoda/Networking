@@ -9,7 +9,8 @@ Machine / IP Address
 -Tracert
 
 Port
--Nmap
+Windows - portquery | netstat | firewall
+Linux - SS | netstat | Nmap | firewalld service
 -Ncat
 
 Traffic

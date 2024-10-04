@@ -1,5 +1,5 @@
  Notes & Basic Troubleshooting
  
- :arrow_right: [Network]
+ :arrow_right: Network
 
- :arrow_right:[Basic](Basic)
+ :arrow_right: [Basic](Basic)

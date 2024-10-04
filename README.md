@@ -2,4 +2,4 @@
  
  :arrow_right: [Network]
 
- :arrow_right: [Basic](Basic)
+ :arrow_right: [Basic] (Basic)

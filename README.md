@@ -14,3 +14,6 @@
     - Analyze DNS Traffic
     - Analyze SSL/TLS Traffic
     - Investigate DHCP Issues
+
+:arrow_right: Basic TCPdump (Packet analysis)
+:arrow_right: Basic NMAP
